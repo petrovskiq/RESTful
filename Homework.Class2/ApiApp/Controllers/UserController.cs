@@ -14,11 +14,11 @@ namespace ApiApp.Controllers
     {
         public static List<User> users = new List<User>()
         {
-            new User("Martin", "Petrovski", 16),
+            new User("Martin", "Petrovski", 25),
             new User("Dario", "Kostov", 25),
             new User("Petar", "Donevski", 25),
             new User("Goran", "Todorovski", 25),
-            new User("Dragana", "Siskovska", 25)
+            new User("Dragana", "Siskovska", 17)
 
         };
 
